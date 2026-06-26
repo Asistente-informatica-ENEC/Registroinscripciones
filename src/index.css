@@ -109,6 +109,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  background: url('/wpp.png') center / cover no-repeat;
 }
 
 .login-wrapper {
